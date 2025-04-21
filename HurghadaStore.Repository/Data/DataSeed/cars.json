@@ -1,0 +1,82 @@
+[
+  {
+    "Name": "Toyota Camry 2023",
+    "Description": "A reliable and fuel-efficient sedan.",
+    "Price": 25000,
+    "PictureUrl": "images/cars/sb-ang1.png",
+    "BrandId": 1,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Honda Civic 2023",
+    "Description": "A stylish and sporty compact car with excellent fuel economy.",
+    "Price": 22000,
+    "PictureUrl": "images/cars/sb-ang2.png",
+    "BrandId": 2,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Ford F-150 2023",
+    "Description": "A powerful and versatile pickup truck.",
+    "Price": 35000,
+    "PictureUrl": "images/cars/sb-ang3.png",
+    "BrandId": 3,
+    "CategoryId": 7
+  },
+  {
+    "Name": "Tesla Model 3 2023",
+    "Description": "A high-performance electric sedan with advanced technology.",
+    "Price": 45000,
+    "PictureUrl": "images/cars/sb-ang4.png",
+    "BrandId": 9,
+    "CategoryId": 9
+  },
+  {
+    "Name": "Hyundai Sonata 2023",
+    "Description": "A comfortable and affordable midsize sedan with a modern design.",
+    "Price": 23000,
+    "PictureUrl": "images/cars/sb-ang5.png",
+    "BrandId": 4,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Kia Sportage 2023",
+    "Description": "A stylish and practical compact SUV.",
+    "Price": 27000,
+    "PictureUrl": "images/cars/sb-ang6.png",
+    "BrandId": 10,
+    "CategoryId": 2
+  },
+  {
+    "Name": "BMW 3 Series 2023",
+    "Description": "A luxurious and sporty sedan with advanced features.",
+    "Price": 40000,
+    "PictureUrl": "images/cars/sb-ang7.png",
+    "BrandId": 6,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Ford Mustang 2023",
+    "Description": "A classic American muscle car with powerful performance.",
+    "Price": 38000,
+    "PictureUrl": "images/cars/sb-ang8.png",
+    "BrandId": 3,
+    "CategoryId": 8
+  },
+  {
+    "Name": "Toyota RAV4 2023",
+    "Description": "A reliable and spacious SUV with excellent fuel economy.",
+    "Price": 28000,
+    "PictureUrl": "images/cars/sb-ang9.png",
+    "BrandId": 1,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Honda Accord 2023",
+    "Description": "A comfortable and well-equipped midsize sedan.",
+    "Price": 26000,
+    "PictureUrl": "images/cars/sb-ang10.png",
+    "BrandId": 2,
+    "CategoryId": 1
+  }
+]

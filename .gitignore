@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HurghadaStore.APIs/bin/Debug/net6.0
+/.vs
+/HurghadaStore.APIs/obj
+/HurghadaStore.Core/bin/Debug/net6.0
+/HurghadaStore.Core/obj
+/HurghadaStore.Repository/bin/Debug/net6.0
+/HurghadaStore.Repository/obj
+/HurghadaStore.Service/bin/Debug/net6.0
+/HurghadaStore.Service/obj
